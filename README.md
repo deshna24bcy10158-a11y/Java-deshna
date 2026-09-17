@@ -300,8 +300,7 @@ Exceeds limit
 ```
 
 ## Screenshots
-
-Screenshots can be added here to demonstrate:
+![Uploading image.png…]()
 
 1. Main menu
 2. Adding a student
